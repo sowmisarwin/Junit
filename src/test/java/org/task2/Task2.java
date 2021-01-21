@@ -1,7 +1,5 @@
 package org.task2;
 
-import java.util.Scanner;
-
 import org.baseMethods.Base;
 import org.junit.After;
 import org.junit.AfterClass;
